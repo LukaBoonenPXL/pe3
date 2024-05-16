@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: mangastore
+primary: true
+siteGroup: f0fcd4fa-846c-4975-a821-f3c45e4e10ba # mangastore
+sortOrder: 1
