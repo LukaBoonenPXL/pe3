@@ -1,4 +1,4 @@
-dateModified: 1715859014
+dateModified: 1716395036
 email:
   fromEmail: lboonen02@gmail.com
   fromName: mangastore
@@ -6,7 +6,36 @@ email:
 meta:
   __names__:
     788d2973-ee04-4ffb-900f-93e20798fdfb: mangastore # mangastore
+    c04fd418-204d-4b8c-8f40-ff85e1e2f65b: 'Public Schema' # Public Schema
     f0fcd4fa-846c-4975-a821-f3c45e4e10ba: mangastore # mangastore
+plugins:
+  dumper:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  enupal-translate:
+    edition: standard
+    enabled: true
+    licenseKey: 8ZP1EXHBHXPEJ1A0Q7BO4WOJ
+    schemaVersion: 3.0.0
+  freeform:
+    edition: express
+    enabled: true
+    schemaVersion: 5.1.0
+  hyper:
+    edition: standard
+    enabled: true
+    licenseKey: WYQ4QH5W5LS6P56NY30HI11K
+    schemaVersion: 1.0.0
+  navigate:
+    edition: standard
+    enabled: true
+    licenseKey: W3GSVSSB44W57CWLPY0899IF
+    schemaVersion: 2.4.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: pro
   live: true
