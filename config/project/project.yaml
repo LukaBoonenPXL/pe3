@@ -1,4 +1,4 @@
-dateModified: 1716395036
+dateModified: 1716658332
 email:
   fromEmail: lboonen02@gmail.com
   fromName: mangastore
@@ -7,7 +7,9 @@ meta:
   __names__:
     788d2973-ee04-4ffb-900f-93e20798fdfb: mangastore # mangastore
     c04fd418-204d-4b8c-8f40-ff85e1e2f65b: 'Public Schema' # Public Schema
+    e0897598-751c-43c1-ab4e-0cbffd2113a9: Home # Home
     f0fcd4fa-846c-4975-a821-f3c45e4e10ba: mangastore # mangastore
+    f9d9f90c-f4e2-41c7-b81d-4230facca894: Home # Home
 plugins:
   dumper:
     edition: standard
