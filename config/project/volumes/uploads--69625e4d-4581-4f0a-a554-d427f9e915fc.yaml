@@ -1,6 +1,7 @@
-color: null
+altTranslationKeyFormat: null
+altTranslationMethod: none
 fieldLayouts:
-  e99f92c5-2477-46a8-86a6-f7a734273a7b:
+  430a78d4-141d-4b56-8058-fd854ac9b43b:
     tabs:
       -
         elementCondition: null
@@ -29,22 +30,20 @@ fieldLayouts:
             step: null
             tip: null
             title: null
-            type: craft\fieldlayoutelements\entries\EntryTitleField
-            uid: 86081e51-9389-46b5-aac8-dfd9358a7eb3
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: ff66d75f-f1ec-423b-aba2-5fd86602161c
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: 47b6e3b2-cdf4-441b-8ff4-a11d4b53d4db
+        uid: 4b018fdc-23cb-4fea-9041-bf0ce2eb68c0
         userCondition: null
-handle: home
-hasTitleField: true
-icon: ''
-name: Home
-showSlugField: true
-showStatusField: true
-slugTranslationKeyFormat: null
-slugTranslationMethod: site
-titleFormat: ''
+fs: uploads
+handle: uploads
+name: uploads
+sortOrder: 1
+subpath: ''
 titleTranslationKeyFormat: null
 titleTranslationMethod: site
+transformFs: ''
+transformSubpath: ''

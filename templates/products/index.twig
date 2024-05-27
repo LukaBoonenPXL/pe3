@@ -1,0 +1,122 @@
+{% extends "index" %}
+
+{% block content %}
+
+        {# {% set products = craft.entries.section('products').all() %}
+
+        <h1> {{entry.productsTitle}} </h1>
+
+        <h2> {{entry.productsDescription}} </h2> #}
+
+    <div class="filter-buttons">
+        <button onclick="filterProducts('all')">All</button>
+        <button onclick="filterProducts('English')">English</button>
+        <button onclick="filterProducts('French')">French</button>
+    </div>
+    
+    {# {% for product in products %} #}
+    <div class="product-grid">
+
+        {# <div class="product">
+            <a href="details.html">
+            <img src="{{ product.url }}" alt="Product 1">
+            <h3>{{ product.title }}</h3>
+            <p>{{product.description}}</p>
+            <p>{{ product.price }}</p>
+            </a>
+        </div> #}
+        
+        <div class="product">
+            <a href="details.html">
+            <img src="assets/homunculus-omnibus-vol-01-02-gn-manga.jpg" alt="Product 1">
+            <h3>Homunculus volume 1-2</h3>
+            <p>Omnibus 1 and 2</p>
+            <p>$29.99</p>
+            </a>
+        </div>
+        
+        <div class="product">
+            <img src="assets/promised-neverland-vol-06-gn-manga.jpg" alt="Product 2">
+            <h3>Promised neverland volume 6</h3>
+            <p>volume 6</p>
+            <p>$29.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/dai-dark-vol-04-gn-manga.jpg" alt="Product 3">
+            <h3>Dai dark volume 4</h3>
+            <p>Volume 4</p>
+            <p>$19.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/fire-force-33-engelstalig-manga.png" alt="Product 3">
+            <h3>Fire force volume 33</h3>
+            <p>volume 33</p>
+            <p>$19.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/hunter-x-hunter-vol-24-gn.jpg" alt="Product 3">
+            <h3>Hunter x hunter volume 24</h3>
+            <p>volume 24</p>
+            <p>$17.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/tokyo-ghoul-vol-08-gn.jpg" alt="Product 3">
+            <h3>Tokyo ghoul volume 8</h3>
+            <p>volume 8</p>
+            <p>$18.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/one-piece-vol-90-gn-manga.jpg" alt="Product 3">
+            <h3>One piece volume 90</h3>
+            <p>volume 90</p>
+            <p>$16.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/death-note-collection-vol-01-black-edition-manga.jpg" alt="Product 3">
+            <h3>death note collection volume 1</h3>
+            <p>collection volume 1</p>
+            <p>$25.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/soul-eater-vol-21-gn.jpg" alt="Product 3">
+            <h3>Soul eater volume 21</h3>
+            <p>volume 21</p>
+            <p>$14.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/vagabond-big-edition-vol-01-gn.jpg" alt="Product 3">
+            <h3>Vagabond big edition volume 1</h3>
+            <p>Big edtion volume 1</p>
+            <p>$24.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/vinland-saga-vol-03-gn.jpg" alt="Product 3">
+            <h3>Vinland saga book 3</h3>
+            <p>book 3</p>
+            <p>$24.99</p>
+        </div>
+        
+        <div class="product">
+            <img src="assets/colorless-04-engelstalig-manga.png" alt="Product 3">
+            <h3>Colorless volume 4</h3>
+            <p>volume 4</p>
+            <p>$19.99</p>
+        </div>
+    </div>
+
+    <ul class="pagination">
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+    </ul>
+
+{% endblock %}

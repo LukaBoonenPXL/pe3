@@ -1,0 +1,80 @@
+color: null
+fieldLayouts:
+  95097203-3399-445c-980c-09535141e9b0:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 1663666b-5b6a-4905-bf22-6ec416e6a37f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: e327442c-7f21-455e-b224-ddfa456cb376 # products title
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 05cdd0b0-fa87-4c8b-b294-f811e764ddb8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: cfbd28be-e878-43ab-b60a-beb5f634cfa9 # products description
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4460ded7-7ccd-4040-bb66-9ec406476eb3
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 981f9d26-25f1-4f71-9452-38302202457b
+        userCondition: null
+handle: products
+hasTitleField: true
+icon: ''
+name: products
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

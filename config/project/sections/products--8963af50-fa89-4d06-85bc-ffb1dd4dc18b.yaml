@@ -1,10 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
 entryTypes:
-  - f9d9f90c-f4e2-41c7-b81d-4230facca894 # Home
-handle: home
+  - 7cbccd2e-9cef-4e0f-8855-908a8bd2321c # products
+handle: products
 maxAuthors: 1
-name: Home
+name: products
 previewTargets:
   -
     __assoc__:
@@ -22,6 +22,6 @@ siteSettings:
   788d2973-ee04-4ffb-900f-93e20798fdfb: # mangastore
     enabledByDefault: true
     hasUrls: true
-    template: home.twig
-    uriFormat: __home__
-type: single
+    template: products/_entry
+    uriFormat: 'products/{slug}'
+type: channel
