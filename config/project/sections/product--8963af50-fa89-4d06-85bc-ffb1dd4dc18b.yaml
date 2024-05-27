@@ -1,10 +1,10 @@
 defaultPlacement: end
 enableVersioning: true
 entryTypes:
-  - 7cbccd2e-9cef-4e0f-8855-908a8bd2321c # products
-handle: products
+  - 7cbccd2e-9cef-4e0f-8855-908a8bd2321c # product
+handle: product
 maxAuthors: 1
-name: products
+name: product
 previewTargets:
   -
     __assoc__:
@@ -22,6 +22,6 @@ siteSettings:
   788d2973-ee04-4ffb-900f-93e20798fdfb: # mangastore
     enabledByDefault: true
     hasUrls: true
-    template: products/_entry
-    uriFormat: 'products/{slug}'
+    template: product/_entry
+    uriFormat: 'product/{slug}'
 type: channel

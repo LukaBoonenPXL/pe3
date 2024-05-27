@@ -87,6 +87,7 @@ button:hover {
     color: orange;
 }
 
+
 /*product*/
 
 .product-container {
@@ -153,7 +154,15 @@ button:hover {
     background-color: #2980b9;
 }
 
-
+.contact-button {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
 /*grid*/
 
 h2 {

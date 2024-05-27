@@ -9,14 +9,16 @@
 <body>
     <header>
         <div class="logo">
-            <img src=""{{ siteUrl }}"assets/logo.png" alt="Your Logo">
+            <img src="assets/logo.png" alt="Your Logo">
+            {# "{{ siteUrl }}" #}
         </div>
-        <nav class="navbar">
 
+        <nav class="navbar">
             <ul class="nav-list">
-                <li class="nav-item"><a href="index.html" class="active-page">Home</a></li>
-                <li class="nav-item"><a href="overzicht.html">Products</a></li>
-                <li class="nav-item"><a href="details.html">contact</a></li>
+            {% for Link in header.navLinks.all() %}
+                {% set destination = Link.linkDestination.one() %}
+                <li class="nav-item"><a href=""{{ destination.url }}"" class="active-page">{{ Link.linkText }}</a></li>
+                {% endfor %}
             </ul>
         </nav>
     </header>

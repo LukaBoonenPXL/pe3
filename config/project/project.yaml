@@ -1,4 +1,4 @@
-dateModified: 1716762700
+dateModified: 1716853586
 email:
   fromEmail: lboonen02@gmail.com
   fromName: mangastore
@@ -13,21 +13,29 @@ fs:
     url: null
 meta:
   __names__:
+    1cfcb8da-6400-407c-8b26-7cd9ba0bdd1a: 'link destination' # link destination
     2d8c1f2b-15f7-4ded-86f1-17379178c81e: 'details description' # details description
     3d8e5a63-b933-48f1-bc47-36b9232c0cbb: 'Hero subtitle' # Hero subtitle
     5cd10ae2-cb86-4106-b647-1128245fa5fe: Image # Image
     5d98e6b8-7fd0-4a5e-920a-912fcfe7fb07: contact # contact
     6c20a19b-8e36-4747-9c18-39f3e76e80ec: 'contact title' # contact title
-    7cbccd2e-9cef-4e0f-8855-908a8bd2321c: products # products
+    7cbccd2e-9cef-4e0f-8855-908a8bd2321c: product # product
     07df6a52-80aa-4611-8bc4-0010eb2fad54: 'details name' # details name
+    40ea5f78-d7ac-4b8a-9be7-379135b86515: 'nav links' # nav links
+    42c7eff6-5f3c-43b4-9f76-3e44b9de5d1e: Link # Link
+    81d7f110-7b8e-4142-9772-c5a2c21a4be8: products # products
     788d2973-ee04-4ffb-900f-93e20798fdfb: mangastore # mangastore
-    8963af50-fa89-4d06-85bc-ffb1dd4dc18b: products # products
+    8963af50-fa89-4d06-85bc-ffb1dd4dc18b: product # product
+    09853f4b-a529-40a1-a249-bf745255c06b: 'link text' # link text
     58849cb1-9acd-4eba-b919-21db1172dc3c: Home # Home
     69625e4d-4581-4f0a-a554-d427f9e915fc: uploads # uploads
+    3525206f-5d3d-4d2a-89d2-a518b19ff183: Contact # Contact
     c04fd418-204d-4b8c-8f40-ff85e1e2f65b: 'Public Schema' # Public Schema
     c9efcee7-8302-4524-aef1-319221d3aa69: home # home
+    ccf0e237-4367-40cc-8117-3596afe4529c: 'product page' # product page
     cda95c2d-ef11-4099-a72b-d5221eec3054: 'Hero image' # Hero image
     cfbd28be-e878-43ab-b60a-beb5f634cfa9: 'products description' # products description
+    d4b381c1-04f9-4077-9053-92de3c8a295e: header # header
     daa4d7a8-f064-4e0f-8da1-1666dd541e6a: 'Hero Title' # Hero Title
     e327442c-7f21-455e-b224-ddfa456cb376: 'products title' # products title
     f0fcd4fa-846c-4975-a821-f3c45e4e10ba: mangastore # mangastore

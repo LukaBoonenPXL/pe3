@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - ccf0e237-4367-40cc-8117-3596afe4529c # product page
+handle: products
+maxAuthors: 1
+name: products
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  788d2973-ee04-4ffb-900f-93e20798fdfb: # mangastore
+    enabledByDefault: true
+    hasUrls: true
+    template: products
+    uriFormat: products
+type: single

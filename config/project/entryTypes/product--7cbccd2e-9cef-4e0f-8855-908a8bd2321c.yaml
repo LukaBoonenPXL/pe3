@@ -67,10 +67,10 @@ fieldLayouts:
         name: Content
         uid: 981f9d26-25f1-4f71-9452-38302202457b
         userCondition: null
-handle: products
+handle: product
 hasTitleField: true
 icon: ''
-name: products
+name: product
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null
