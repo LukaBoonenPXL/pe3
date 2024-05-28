@@ -15,9 +15,9 @@
 
         <nav class="navbar">
             <ul class="nav-list">
-            {% for Link in header.navLinks.all() %}
-                {% set destination = Link.linkDestination.one() %}
-                <li class="nav-item"><a href=""{{ destination.url }}"" class="active-page">{{ Link.linkText }}</a></li>
+            {% for link in header.navLinks.all() %}
+                {% set destination = link.linkDestination.one() %}
+                <li class="nav-item"><a href=""{{ destination.url }}"" class="active-page">{{ link.linkText }}</a></li>
                 {% endfor %}
             </ul>
         </nav>

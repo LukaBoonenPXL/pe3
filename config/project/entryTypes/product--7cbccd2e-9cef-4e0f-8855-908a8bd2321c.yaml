@@ -36,6 +36,21 @@ fieldLayouts:
             width: 100
           -
             elementCondition: null
+            fieldUid: 5cd10ae2-cb86-4106-b647-1128245fa5fe # Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: eb830c1e-e73c-47ae-aa71-a357d8526541
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
             fieldUid: e327442c-7f21-455e-b224-ddfa456cb376 # products title
             handle: null
             includeInCards: false
@@ -61,6 +76,21 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             uid: 4460ded7-7ccd-4040-bb66-9ec406476eb3
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 40f4c8e8-86cc-472a-a5f7-2b128d632696 # product price
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e5ad7e28-a84d-485c-9eea-b5cd70b344f7
             userCondition: null
             warning: null
             width: 100

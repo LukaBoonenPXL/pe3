@@ -1,4 +1,4 @@
-dateModified: 1716853586
+dateModified: 1716906057
 email:
   fromEmail: lboonen02@gmail.com
   fromName: mangastore
@@ -22,6 +22,7 @@ meta:
     7cbccd2e-9cef-4e0f-8855-908a8bd2321c: product # product
     07df6a52-80aa-4611-8bc4-0010eb2fad54: 'details name' # details name
     40ea5f78-d7ac-4b8a-9be7-379135b86515: 'nav links' # nav links
+    40f4c8e8-86cc-472a-a5f7-2b128d632696: 'product price' # product price
     42c7eff6-5f3c-43b4-9f76-3e44b9de5d1e: Link # Link
     81d7f110-7b8e-4142-9772-c5a2c21a4be8: products # products
     788d2973-ee04-4ffb-900f-93e20798fdfb: mangastore # mangastore
