@@ -1,4 +1,4 @@
-dateModified: 1716906057
+dateModified: 1716920392
 email:
   fromEmail: lboonen02@gmail.com
   fromName: mangastore
@@ -24,20 +24,25 @@ meta:
     40ea5f78-d7ac-4b8a-9be7-379135b86515: 'nav links' # nav links
     40f4c8e8-86cc-472a-a5f7-2b128d632696: 'product price' # product price
     42c7eff6-5f3c-43b4-9f76-3e44b9de5d1e: Link # Link
+    76eb891d-5599-4243-9ef5-17c19f414f5d: footer # footer
     81d7f110-7b8e-4142-9772-c5a2c21a4be8: products # products
     788d2973-ee04-4ffb-900f-93e20798fdfb: mangastore # mangastore
     8963af50-fa89-4d06-85bc-ffb1dd4dc18b: product # product
     09853f4b-a529-40a1-a249-bf745255c06b: 'link text' # link text
     58849cb1-9acd-4eba-b919-21db1172dc3c: Home # Home
     69625e4d-4581-4f0a-a554-d427f9e915fc: uploads # uploads
+    247848c1-34ce-4020-ba23-63d7bc173bdf: footertext # footertext
     3525206f-5d3d-4d2a-89d2-a518b19ff183: Contact # Contact
     c04fd418-204d-4b8c-8f40-ff85e1e2f65b: 'Public Schema' # Public Schema
     c9efcee7-8302-4524-aef1-319221d3aa69: home # home
+    cc8a7d47-bdd8-4cdc-9a33-d4227740b464: footersocial # footersocial
     ccf0e237-4367-40cc-8117-3596afe4529c: 'product page' # product page
     cda95c2d-ef11-4099-a72b-d5221eec3054: 'Hero image' # Hero image
     cfbd28be-e878-43ab-b60a-beb5f634cfa9: 'products description' # products description
+    d0224f34-9987-4a45-b84d-497fe6df12b8: footerphone # footerphone
     d4b381c1-04f9-4077-9053-92de3c8a295e: header # header
     daa4d7a8-f064-4e0f-8da1-1666dd541e6a: 'Hero Title' # Hero Title
+    e230645a-afa0-4a9a-8c49-9df626156176: footeremail # footeremail
     e327442c-7f21-455e-b224-ddfa456cb376: 'products title' # products title
     f0fcd4fa-846c-4975-a821-f3c45e4e10ba: mangastore # mangastore
     ffa0bd06-8693-4e0c-923c-1e0df7efcc62: 'details image' # details image

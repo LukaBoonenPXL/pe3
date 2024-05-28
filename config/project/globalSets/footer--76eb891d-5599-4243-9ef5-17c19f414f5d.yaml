@@ -1,0 +1,107 @@
+fieldLayouts:
+  188b674d-259e-4e9e-a74b-384ced824b23:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 247848c1-34ce-4020-ba23-63d7bc173bdf # footertext
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9712a8f0-4d99-44e1-aa10-d0a5acfcecb2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 93a9cae4-da9d-4b0c-baa6-e99457e9c002
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: e230645a-afa0-4a9a-8c49-9df626156176 # footeremail
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2dcb7dfa-33f8-48b5-afb9-157887560d17
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 5ba2b097-9e6c-4fbd-8206-c97487888be4
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: d0224f34-9987-4a45-b84d-497fe6df12b8 # footerphone
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 180015cf-d4a1-49c3-b046-c4b6bd4619b0
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: 2cc81f8f-0933-4cc9-b30b-e6afba894f4a
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 3d8e5a63-b933-48f1-bc47-36b9232c0cbb # Hero subtitle
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 65bb7780-709e-49f1-a8c5-97e320562ce1
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: b4b38ba6-ee40-43d5-8cde-00e05cf6a43d
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: cc8a7d47-bdd8-4cdc-9a33-d4227740b464 # footersocial
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: bcd4962f-a32e-4136-b57f-25b13abd14cd
+            userCondition: null
+            warning: null
+            width: 100
+        name: content
+        uid: b46e3205-0438-4f22-889f-26281d1da8d1
+        userCondition: null
+handle: footer
+name: footer
+sortOrder: 2
